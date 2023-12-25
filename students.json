@@ -1,0 +1,44 @@
+[
+    {
+        "_studentId": 1,
+        "studentName": "Ahmed Khan",
+        "studentAge": 20,
+        "studentSubject": "DSA"
+    },
+    {
+        "_studentId": 2,
+        "studentName": "Sharjeel Khan",
+        "studentAge": 21,
+        "studentSubject": "DSA"
+    },
+    {
+        "_studentId": 3,
+        "studentName": "Riaz Khan",
+        "studentAge": 24,
+        "studentSubject": "COAL"
+    },
+    {
+        "_studentId": 4,
+        "studentName": "Raiwand Khan",
+        "studentAge": 25,
+        "studentSubject": "DSA"
+    },
+    {
+        "_studentId": 5,
+        "studentName": "Ismail Khan",
+        "studentAge": 26,
+        "studentSubject": "HRM"
+    },
+    {
+        "_studentId": 6,
+        "studentName": "Bakhtiyaar Khan",
+        "studentAge": 27,
+        "studentSubject": "DSA"
+    },
+    {
+        "_studentId": 7,
+        "studentName": "Chilgoza Khan",
+        "studentAge": 21,
+        "studentSubject": "DSA"
+    }
+]
